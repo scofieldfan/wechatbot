@@ -4,7 +4,7 @@
 
 ## 安装
 
-需要 docker，和 docker 安装包 zixia/wechaty
+需要 docker，和 docker 安装包 zixia/wechaty
 
 ## 启动
 
