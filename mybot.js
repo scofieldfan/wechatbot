@@ -95,3 +95,4 @@ Wechaty.instance()
   })
 
   .init();
+// master modify  sth.
